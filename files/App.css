@@ -1,0 +1,23 @@
+/** アプリケーションCSS **/
+/* フォント */
+/* ボディ */
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100dvh;
+}
+
+/* ヘッダー */
+header {
+    height: 72px;
+}
+
+/* メイン */
+main {
+    flex-grow: 1;
+}
+
+/* フッター */
+footer {
+    height: 48px;
+}
